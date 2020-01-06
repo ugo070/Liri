@@ -78,7 +78,7 @@ Output: The system will display information associated with the movie. The syste
 
         node liri.js do-what-it-says
 
-    Output: The system will read the text in the random.txt file, and perform the comman listed in the random.txt file.  The program will take the text inside of random.txt and use it to call the first command with the second part as it's parameter
+    Output: The system will read the text in the random.txt file, and perform the comman listed in the random.txt file.The program will take the text inside of random.txt and use it to call the first command with the second part as it's parameter
 
     Currently in random.txt, the following text is there:
 
@@ -88,7 +88,7 @@ Output: The system will display information associated with the movie. The syste
 
     See screen-shot below:
 
-    ![Results](/screenshots/dothis_this_results.PNG)
+![Results](/screenshots/dothis_this_results.PNG)
 
 ---
 
