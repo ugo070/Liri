@@ -31,9 +31,7 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 ## HOW TO USE LIRI
 
-### **Video Guide**
 
-Watch the video here: https://drive.google.com/file/d/1rT4qbvQoZnfuvI2KZXd_XE3xHcxFMZR9/view
 
 ### **Step by Step instructions**
 
